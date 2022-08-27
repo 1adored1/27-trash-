@@ -1,4 +1,4 @@
-f = open('27.txt')
+f = open('')
 n = int(f.readline())
 
 a = []
